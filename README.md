@@ -19,3 +19,4 @@
 <img align"center" alt"Express.js" src="https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB" />
 <div/>
 
+![snake gif](https://github.com/Luidy-gui/Luidy-gui/blob/output/github-contribution-grid-snake.svg)
